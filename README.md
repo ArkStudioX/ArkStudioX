@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=640&lines=Welcome+to+Ark+Studio!;AI-Powered+Projects+&+Real-World+Tools;Full-Stack+Development+&+Cyber+Security;Containerized+&+Cloud-Ready)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=640&lines=Welcome+to+Ark+Studio!;Node.js+Python+React+&+Flutter;Full-Stack+Development+&+Cyber+Security;Pragmatic+Code+&+Real-World+Tools)](https://git.io/typing-svg)
+
 
 <p align="center">
   <a href="https://github.com/ArkStudioX" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
