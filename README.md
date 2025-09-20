@@ -1,5 +1,3 @@
-# <div align="center">![Welcome Banner](https://i.imgur.com/nkNZEtW.jpeg)</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=640&lines=Welcome+to+Ark+Studio!;AI-Powered+Projects+&+Real-World+Tools;Full-Stack+Development+&+Cyber+Security;Containerized+&+Cloud-Ready)](https://git.io/typing-svg)
@@ -91,53 +89,6 @@ We publish open-source utilities, bots, and project starters — and maintain pr
 - 📊 **Project insights:** visible changelogs, roadmap, and release notes.  
 - 💬 **Community & support:** integrated Discord join links and feedback forms.  
 - 🐳 **Deployable:** examples with Docker + VPS deployment guides.
-
-</details>
-
----
-
-<details open>
-<summary><h2>📌 Projects — quick gallery</h2></summary>
-
-> Replace these repo links with your actual repo slugs (or keep as-is and update later).
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ArkStudioX/arkbot"><img width="100%" alt="ArkBot" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkStudioX&repo=arkbot&theme=radical" /></a>
-      <p align="center"><strong>ArkBot</strong><br/>Discord bot with AI assistance & project access</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ArkStudioX/ark-app"><img width="100%" alt="Ark App" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkStudioX&repo=ark-app&theme=radical" /></a>
-      <p align="center"><strong>Ark App</strong><br/>Flutter app for Android & iOS — project feed & early access</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ArkStudioX/ark-website"><img width="100%" alt="Ark Website" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkStudioX&repo=ark-website&theme=radical" /></a>
-      <p align="center"><strong>Ark Website</strong><br/>Interactive hub, docs and deploy guides</p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ArkStudioX/bleto-system"><img width="100%" alt="Bleto System" src="https://github-readme-stats.vercel.app/api/pin/?username=ArkStudioX&repo=bleto-system&theme=radical" /></a>
-      <p align="center"><strong>Bleto System</strong><br/>Lightweight hosting panel & management (demo)</p>
-    </td>
-  </tr>
-</table>
-
-</details>
-
----
-
-<details open>
-<summary><h2>🚀 How to use ArkBot (quick)</h2></summary>
-
-1. Invite ArkBot to your server (control permissions: minimal + message read/send).  
-2. Use `!projects` to list public Ark Studio projects.  
-3. Use `!project <name>` to get docs, install commands, and quick-start snippets.  
-4. Use `!ai help <topic>` to get contextual AI guidance (usage examples, debug steps).  
-5. Use `!deploy guide <project>` to receive a Docker + VPS quick-deploy script.
-
-> ArkBot is built to be non-intrusive, helpful, and fast. Commands are modular — you can enable/disable features per server.
 
 </details>
 
