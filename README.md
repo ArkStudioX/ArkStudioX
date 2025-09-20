@@ -76,7 +76,6 @@ We publish open-source utilities and project starters; production releases and m
 - **ArkBot** – Discord Bot Suite
   - 🤖 **Project Access Made Easy:** Instantly explore all Ark Studio projects from Discord.  
   - 🧠 **AI Assistance:** Integrated AI helps guide usage and troubleshoot errors for any project.  
-  - ⚡ **Automation:** Manage XP, reputation, and credits automatically.  
   - 💬 **Interactive Commands:** Simple commands to engage with projects and the community.  
   - 🔒 **Secure:** Built with user data protection in mind.  
 
