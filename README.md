@@ -23,17 +23,17 @@ No fluff. Real code. Real infra. Real support.
 ---
 
 ## 🧭 About Ark Studio
-Ark Studio builds useful developer tools, mobile & web apps, bots and lightweight game systems — with a heavy focus on **automation, security, and deployable infrastructure** (Docker / VPS / Hosting). We integrate AI where it helps developers actually work faster — debugging help, usage guidance, and quick project scaffolds.
+Ark Studio builds developer tools, mobile & web apps, bots and lightweight game systems — with a heavy focus on **automation, security, and deployable infrastructure** (Docker / VPS / Hosting). We integrate AI where it helps developers actually work faster — debugging help, usage guidance, and quick project scaffolds.
 
-We publish open-source utilities, bots, and project starters — and maintain private builds and mobile releases as needed.
+We publish open-source utilities and project starters; production releases and mobile builds will appear here once ready.
 
 ---
 
 ## 🛠 What we build
 - Developer utilities (CLI / scripts / automation).  
-- Discord tooling (ArkBot) with AI-assisted help for projects.  
-- Cross-platform mobile apps (Flutter) for instant project access & notifications.  
-- Web platforms & interactive demos for testing code in the browser.  
+- Discord tooling (ArkBot) with AI-assisted help planned.  
+- Cross-platform mobile apps (Flutter) for project access & notifications.  
+- Web platforms & interactive demos for browser testing.  
 - Lightweight game plugins & scripts (Roblox / Minecraft).  
 - Hardened deployments: Docker images, VPS guides, and affordable hosting setups.
 
@@ -69,26 +69,34 @@ We publish open-source utilities, bots, and project starters — and maintain pr
 ---
 
 <details open>
-<summary><h2>🌟 Featured Projects (overview)</h2></summary>
+<summary><h2>🌟 Featured Projects (planned)</h2></summary>
 
-### ArkBot — Discord-centric project gateway (AI-assisted)
-- 🤖 **Instant access:** Browse and fetch Ark Studio projects directly inside Discord.  
-- 🧠 **AI Assistant:** Context-aware help — usage examples, quick-start commands, and automated troubleshooting tips for project errors.  
-- ⚡ **Utility commands:** install scaffolds, run diagnostics, fetch changelog, and request builds.  
-- 🔐 **Secure:** Minimal required permissions; logs & rate limits to protect servers.
+> These projects are planned / in development. No downloads or usage docs are published here yet.
 
-### Ark App — Mobile application (Android & iOS)
-- 📱 **Project browser:** View latest releases, changelogs, and demos.  
-- 🔔 **Early notifications:** Opt-in alerts for pre-release builds and urgent fixes.  
-- ⚙️ **Mini-tools:** Small interactive previews (config previews, quick demos).  
-- 🌐 **Cross-platform:** Built with Flutter for a native-feel on Android/iOS.
+- **ArkBot** – Discord Bot Suite
+  - 🤖 **Project Access Made Easy:** Instantly explore all Ark Studio projects from Discord.  
+  - 🧠 **AI Assistance:** Integrated AI helps guide usage and troubleshoot errors for any project.  
+  - ⚡ **Automation:** Manage XP, reputation, and credits automatically.  
+  - 💬 **Interactive Commands:** Simple commands to engage with projects and the community.  
+  - 🔒 **Secure:** Built with user data protection in mind.  
 
-### Ark Website — Central hub & interactive lab
-- 🌐 **Centralized portal:** docs, demos, downloads, and status pages.  
-- 🖥 **Interactive demos:** run lightweight scripts / preview plugins in-browser.  
-- 📊 **Project insights:** visible changelogs, roadmap, and release notes.  
-- 💬 **Community & support:** integrated Discord join links and feedback forms.  
-- 🐳 **Deployable:** examples with Docker + VPS deployment guides.
+- **Ark Application** – Mobile App
+  - 📱 **Latest Projects:** Access the newest projects directly from your phone.  
+  - 🔔 **Early Notifications:** Get early alerts for pre-release projects.  
+  - ⚡ **Regular Updates:** Receive consistent project updates.  
+  - 🌐 **Cross-Platform:** Available on Android & iOS.  
+  - 🛠 **Interactive Features:** Try mini-tools and project previews from the app.  
+
+- **Ark Website** – Official Hub
+  - 🌐 **Centralized Portal:** All projects, tools, and resources in one place.  
+  - ⚡ **Live Updates:** Real-time announcements and updates.  
+  - 🖥 **Interactive Demos:** Test scripts, bots, and mini-games directly in your browser.  
+  - 📊 **Project Insights:** Track stats, featured highlights, and active developments.  
+  - 💬 **Community Access:** Integrated support and forums for feedback and discussion.  
+  - 📱 **Cross-Platform Browsing:** Optimized for desktop and mobile.  
+  - 🔒 **Secure & Reliable:** Fast, encrypted, and privacy-focused hosting.  
+
+*(Will publish repos, releases and install docs once each project reaches a releasable state.)*
 
 </details>
 
@@ -98,13 +106,13 @@ We publish open-source utilities, bots, and project starters — and maintain pr
 <summary><h2>📦 Deploy & Infrastructure</h2></summary>
 
 ### Containerization
-- Production-ready Dockerfile examples for Node.js and Python projects.  
-- Multi-stage builds for small images and faster deploys.
+- Production-ready Dockerfile patterns for Node.js and Python projects.  
+- Multi-stage builds for smaller images and faster deploys.
 
 ### VPS & Hosting
 - Step-by-step guides for common VPS providers (Ubuntu/Debian stacks).  
-- Scripts for automatic provisioning, swap setup, firewall (ufw), SSL via Certbot.  
-- Backup strategies: daily DB dumps + weekly snapshots.
+- Scripts available in planned repos for provisioning, swap setup, firewall (ufw), and SSL via Certbot.  
+- Backup strategies: daily DB dumps + weekly snapshots (recommended).
 
 ### Recommended pattern
 1. Build Docker image → push to registry.  
@@ -136,17 +144,17 @@ We publish open-source utilities, bots, and project starters — and maintain pr
 <details open>
 <summary><h2>🗺 Roadmap & Priorities</h2></summary>
 
-Short-term (next releases)
-- ArkBot: stabilized AI help + error auto-suggester.  
-- Ark App: push notifications + pre-release channel.  
-- Ark Website: interactive demo sandbox + docs improvements.
+**Short-term (next releases)**  
+- ArkBot: architecture, core commands, AI integration.  
+- Ark App: basic feed + notifications prototype.  
+- Ark Website: docs & simple interactive demo sandbox.
 
-Mid-term
-- Publish Docker images for each major project.  
+**Mid-term**  
+- Publish Docker images for core projects.  
 - VPS deploy CLI (one-command deploy for demos).  
-- Expand automation scripts & starter kits.
+- Starter kits and automation scripts.
 
-Long-term
+**Long-term**  
 - Monetizable support tiers (private builds, consulting).  
 - Community plugins marketplace (curated & secure).
 
@@ -165,9 +173,9 @@ Long-term
 - Project mentoring & developer tooling
 
 ### How to collaborate
-- For quick questions: DM on Discord (`.9.m.`).  
-- For business / collaboration: send a clear brief to **arkstudio@gmail.com**.  
-- For open-source contributions: open an issue or a PR in the relevant repo.
+- Quick questions: DM on Discord (`.9.m.`).  
+- Business / collaboration: send a brief to **arkstudio@gmail.com**.  
+- Open-source contributions: once repos are public, open issues / PRs there.
 
 </details>
 
@@ -189,9 +197,9 @@ Long-term
 <details open>
 <summary><h2>📣 Notes — transparency</h2></summary>
 
-- This profile focuses on **real skills** and **deployable outputs**. No fake claims, no fabricated certifications.  
-- Numbers and badges that require live data (followers, stars) will reflect your real GitHub metrics once your account is active.  
-- Update the pinned repo links to match the actual repository slugs once your projects are pushed.
+- This profile reflects **actual skills** and **planned projects**. No galleries or “how-to” sections for projects that are not released.  
+- When a project is ready we will publish its repo, full README, releases and usage instructions — and then pin it to this profile.  
+- Replace placeholder text / repo names with real links once you push the code.
 
 </details>
 
