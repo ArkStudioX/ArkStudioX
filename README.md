@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/XeoStudioX" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/XeoStudio" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://discord.com/users/.9.m." target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="mailto:xeostudio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.tiktok.com/@w.isseem" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
@@ -185,7 +185,7 @@ We publish open-source utilities and project starters; production releases and m
 <summary><h2>💬 Contact & Social</h2></summary>
 
 - 📧 Email: [xeostudio@gmail.com](mailto:xeostudio@gmail.com)  
-- GitHub: [XeoStudioX](https://github.com/XeoStudioX)  
+- GitHub: [XeoStudioX](https://github.com/XeoStudio)  
 - Discord: `.9.m.` → https://discord.com/users/.9.m.  
 - TikTok: [w.isseem](https://www.tiktok.com/@w.isseem)  
 - Instagram: [w.isseem](https://www.instagram.com/w.isseem)
