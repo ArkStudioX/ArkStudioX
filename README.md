@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/w.isseem" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=XeoStudioX&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/XeoStudioX)
+[![Profile Views](https://komarev.com/ghpvc/?username=XeoStudioX&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/XeoStudio)
 
 </div>
 
