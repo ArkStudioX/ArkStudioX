@@ -185,7 +185,7 @@ We publish open-source utilities and project starters; production releases and m
 <summary><h2>💬 Contact & Social</h2></summary>
 
 - 📧 Email: [xeostudio@gmail.com](mailto:xeostudio@gmail.com)  
-- GitHub: [XeoStudioX](https://github.com/XeoStudio)  
+- GitHub: [XeoStudio](https://github.com/XeoStudio)  
 - Discord: `.9.m.` → https://discord.com/users/.9.m.  
 - TikTok: [w.isseem](https://www.tiktok.com/@w.isseem)  
 - Instagram: [w.isseem](https://www.instagram.com/w.isseem)
