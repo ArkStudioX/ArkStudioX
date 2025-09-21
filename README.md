@@ -129,12 +129,12 @@ We publish open-source utilities and project starters; production releases and m
 <summary><h2>📈 GitHub Stats & Activity</h2></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XeoStudioX&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeoStudioX&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XeoStudio&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeoStudio&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeoStudioX&custom_title=Contribution+Graph&theme=github-dark" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XeoStudio&custom_title=Contribution+Graph&theme=github-dark" alt="Contribution graph" />
 </p>
 
 </details>
