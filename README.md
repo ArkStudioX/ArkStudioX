@@ -199,7 +199,6 @@ We publish open-source utilities and project starters; production releases and m
 
 - This profile reflects **actual skills** and **planned projects**. No galleries or “how-to” sections for projects that are not released.  
 - When a project is ready we will publish its repo, full README, releases and usage instructions — and then pin it to this profile.  
-- Replace placeholder text / repo names with real links once you push the code.
 
 </details>
 
